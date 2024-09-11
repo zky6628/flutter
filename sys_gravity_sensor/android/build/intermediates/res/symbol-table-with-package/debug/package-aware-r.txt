@@ -1,0 +1,1 @@
+com.ygxy.sys_gravity_sensor
